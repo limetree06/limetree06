@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 <h3>🍀 Me 🍀</h3>
-<p>Hi There! I'm a frontEnd developer.</p>
-<p> My main skills are HTML, CSS, JavaScript, React and TypeScript</p>
+<p>Hi There! I'm a junior developer.</p>
+<p> My main skills are HTML, CSS, JavaScript, React and React-Native</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
   
 #
