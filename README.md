@@ -2,13 +2,9 @@
 limetree06/limetree06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
+
 <h3>🍀 Me 🍀</h3>
 <p>Hi There! I'm a junior developer.</p>
-<p> My main skills are HTML, CSS, JavaScript, React and React-Native</p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
-  
-#
 <h3>❤️ I love...</h3>
 <p>🏋🏻Working out,&nbsp;&nbsp;📚Reading,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies&nbsp;&nbsp;</p>
   
@@ -19,7 +15,4 @@ You can click the Preview link to take a look at your changes.
 <p><img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;</p>
 
 <p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;</p>
-  
-#
-
-</div>
+ 
