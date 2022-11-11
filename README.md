@@ -3,15 +3,6 @@ limetree06/limetree06 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3>🍀 Me 🍀</h3>
-<p>Hi There! I'm a junior developer.</p>
-
-#
-
-<h3>❤️ I love...</h3>
-<p>🏋🏻Working out,&nbsp;&nbsp;📚Reading,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies&nbsp;&nbsp;</p>
-  
-#
 <h3>🔥 Tech Stack 🔥</h3>
  
 <p>
