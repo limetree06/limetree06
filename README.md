@@ -31,6 +31,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
- #
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limetree06&show_icons=true&theme=radical)
  
