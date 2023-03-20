@@ -3,6 +3,8 @@ limetree06/limetree06 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+# 손민지
+
 <h3>🔥 Tech Stack 🔥</h3>
  
 <p>
@@ -30,5 +32,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
+
+[Resume link](https://limetree-minji.notion.site/3a7dc6f21e0547a8bfb0ca6b9c48f687)
+
+
 
  
