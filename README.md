@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-[Resume link](https://limetree-minji.notion.site/3a7dc6f21e0547a8bfb0ca6b9c48f687)
+[Link](https://limetree-minji.notion.site/3a7dc6f21e0547a8bfb0ca6b9c48f687)
 
 
 
