@@ -5,6 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 # 손민지
 
+CV : https://limetree-minji.notion.site/3a7dc6f21e0547a8bfb0ca6b9c48f687?pvs=4
+
 
 
 
